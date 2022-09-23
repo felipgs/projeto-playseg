@@ -96,10 +96,12 @@ main {
 main h2 {
     color: var(--cor5);
     text-shadow: 1px 2px 0px rgba(0, 0, 0, 0.274);
+    font-size: 1.2em;
     text-indent: 10px;
 }
 
 main p {
+    font-size: 1em;
     line-height: 1.5em;
     text-align: justify;
     text-indent: 30px;
